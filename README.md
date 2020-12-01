@@ -7,6 +7,7 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=toxicrecker&show_icons=true&count_private=false" class="center">
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicrecker" class="center">
 <br>
 <br>
