@@ -1,4 +1,5 @@
 <div class="center">
+<hr>
 <h1 class="center">Introduction</h1>
 <h3 class="center">A python coder who is mostly working on some personal project</h3>
 <hr>
@@ -14,4 +15,5 @@
 <tr><th>Email</th><td>business.recker@gmail.com</td></tr>
 <tr><th>Discord</th><td>toxic_recker#6764</td></tr>
 </table>
+<hr>
 </div>
