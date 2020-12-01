@@ -1,6 +1,6 @@
 <div class="center">
-<h1 class="center">Introduction</h1>
-<span class="center"><i>A python coder who is mostly working on some personal project</i></span>
+<h3 class="center"><span>Hello 👋</span>
+<span class="center">A python coder who is mostly working on some personal project</span>
 <h1 class="center">Badges</h1>
 <img src="https://komarev.com/ghpvc/?username=toxicrecker&color=blue" class="center">
 <h1 class="center">Stats</h1>
