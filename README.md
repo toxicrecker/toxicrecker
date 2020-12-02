@@ -1,6 +1,6 @@
 <div class="center">
 <h3 class="center">Hello 👋</h3>
-<span class="center">I am a guy who has interest in coding and playing <a href="https://playvalorant.com">VALORANT</a></span>
+<span class="center">I am a guy who has interest in coding and playing <b><a href="https://playvalorant.com">VALORANT</a></b></span>
 <br>
 <h3 class="center">Experience and Tools 🛠️</h3>
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
