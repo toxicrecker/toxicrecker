@@ -18,6 +18,6 @@
 <table>
 <tr><th colspan="2">Contact Me</th></tr>
 <tr><td>Email</td><td><b><a href="mailto:business.recker@gmail.com">business.recker@gmail.com</a></b></td></tr>
-<tr><td>Discord</td><td>toxic_recker#6764</td></tr>
+<tr><td>Discord</td><td><b><a href="https://discord.com/users/438672336921690112">toxic_recker#6764</a></b></td></tr>
 </table>
 </div>
