@@ -17,7 +17,7 @@
 <br>
 <table>
 <tr><th colspan="2">Contact Me</th></tr>
-<tr><td>Email</td><td>business.recker@gmail.com</td></tr>
+<tr><td>Email</td><td><b><a href="mailto:business.recker@gmail.com">business.recker@gmail.com</a></b></td></tr>
 <tr><td>Discord</td><td>toxic_recker#6764</td></tr>
 </table>
 </div>
