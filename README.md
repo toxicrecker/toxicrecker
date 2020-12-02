@@ -10,9 +10,9 @@
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center"></a>
 <br>
 <h3 class="center">Stats 📊</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=toxicrecker&show_icons=true&count_private=false" class="center">
+<a href="https://github.com/toxicrecker?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=toxicrecker&show_icons=true&count_private=false" class="center"></a>
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicrecker" class="center">
+<a href="https://github.com/toxicrecker?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicrecker" class="center"></a>
 <br>
 <br>
 <table>
