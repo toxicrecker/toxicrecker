@@ -9,6 +9,8 @@
 <br>
 <a href="https://en.m.wikipedia.org/wiki/CSS"><img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a>
 <br>
+<a href="https://en.m.wikipedia.org/wiki/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<br>
 <a href="https://sqlite.org"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-47a248?style=for-the-badge&logo=sqlite&logoColor=white" class="center"></a>
 <br>
 <a href="https://code.visualstudio.com"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white" class="center"></a>
