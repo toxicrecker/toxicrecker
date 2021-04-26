@@ -1,6 +1,6 @@
 <div class="center">
 <h3 class="center">Hello 👋</h3>
-<span class="center"><b>I am a guy who has interest in coding and playing <a href="https://playvalorant.com">VALORANT</a></b></span>
+<span class="center"><b>I am a guy who has interest in coding and playing <a href="https://playvalorant.com">VALORANT. </a></b>I also make custom discord bots and websites so make sure to DM me on discord if you're interested! You can find my discord below</span>
 <br>
 <h3 class="center">Experience and Tools 🛠️</h3>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
@@ -19,6 +19,10 @@
 <a href="https://github.com/toxicrecker?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=toxicrecker&show_icons=true&count_private=false&theme=radical" class="center"></a>
 <br>
 <a href="https://github.com/toxicrecker?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toxicrecker&show_icons=true&count_private=false&theme=radical" class="center"></a>
+<br>
+<br>
+<h3 class="center">Status 📄</h3>
+<a href="https://discord.com/users/438672336921690112"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-4/438672336921690112.png"></a>
 <br>
 <br>
 <table>
