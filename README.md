@@ -1,6 +1,6 @@
 <div class="center">
 <h3 class="center">Hello 👋</h3>
-<span class="center"><b>I am a guy who has interest in coding and playing <a href="https://playvalorant.com">VALORANT. </a>I also make custom discord bots and websites so make sure to DM me on discord if you're interested! You can find my discord below in the "Contact Me" section.</b></span>
+<span class="center"><b>I am a guy who has interest in coding and playing <a href="https://www.ubisoft.com/en-gb/game/rainbow-six/siege">Tom Clancy's Rainbow Six Siege. </a>I also make custom discord bots and websites so make sure to DM me on discord if you're interested! You can find my discord below in the "Contact Me" section.</b></span>
 <br>
 <h3 class="center">Experience and Tools 🛠️</h3>
 <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center"></a>
